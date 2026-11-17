@@ -1,0 +1,11 @@
+{
+  "name": "KIZUKI",
+  "short_name": "KIZUKI",
+  "description": "Painel KIZUKI",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080808",
+  "theme_color": "#e00000"
+}
